@@ -1,0 +1,21 @@
+i{
+    color: rgb(87, 23, 140);}
+    div{
+       text-align: center;
+       margin-top: 200px;
+       margin-bottom: 200px;
+       margin-left: 200px;
+       margin-right: 200px;
+       scroll-behavior: smooth;
+}
+div{
+   
+    text-align: center;
+    background-color: #c7dddf;    
+}
+input{
+    background-color: azure;
+}
+button{
+    background-color: rgb(246, 255, 186);
+}
